@@ -53,6 +53,6 @@ Review any airline notifications or alerts
 Ready to Check Now?
 
 Click here to check your Emirates PNR status instantly:
-[https://emiratesvisaonline.com/visas/how-to-check-emirates-pnr-status]([url](https://emiratesvisaonline.com/visas/how-to-check-emirates-pnr-status))
+<a href="https://emiratesvisaonline.com/visas/how-to-check-emirates-pnr-status">https://emiratesvisaonline.com/visas/how-to-check-emirates-pnr-status</a>
 
 Travel smart. Stay informed. Enjoy your Emirates journey!
